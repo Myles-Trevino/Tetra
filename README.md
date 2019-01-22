@@ -1,7 +1,7 @@
 # Tetra
 A high-performance voxel engine written in C++ and Vulkan.
 
-### Download and information: http://www.oreginum.com/tetra
+### Download and information: http://www.laventh.com/code
 
 ### Video:
 [![Tetra - YouTube](https://i.imgur.com/IYCdCKN.png)](http://www.youtube.com/watch?v=Aok9_ngcgKw "Tetra - YouTube")
